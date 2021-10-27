@@ -7,12 +7,188 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "For William Diep, CC ’25, John Jay Dining Hall’s grill, which often features omelets or pancakes, and pasta station overflowing with piles of penne and pots of pesto cream sauce, are a regular sight. Although Ferris Booth Commons is his favorite dining hall, Diep frequents John Jay the most to avoid the longer lines he has experienced at Ferris."
+          },
+          {
+            "type": "text",
+            "value": "As the semester progressed, Diep has observed the long lines that once snaked out of the dining halls at the beginning of the school year recede into the spaces where the food itself is served."
+          },
+          {
+            "type": "text",
+            "value": "Since the majority of Columbia morning classes end at the same time, many students head to the dining halls at 11:25 a.m. or 12:55 p.m. A survey sent out by Spectator that closed on Oct. 8 found that 43.5 percent of the 903 respondents usually visited the dining halls between 11 a.m. and 12 p.m., and 56.4 percent of respondents visited the dining halls from 12 p.m. and 1 p.m. Given the short breaks between classes, some students find it difficult to squeeze in a meal."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "dining-time-series-final.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Before the University began offering <a href=\"https://www.columbiaspectator.com/arts-and-entertainment/2021/10/10/columbia-and-barnard-to-allow-indoor-dining-at-all-dining-halls/\">indoor dining</a>, some students, including Eva Sadana, GS ’23, tried to get around the crowds by treating the dining halls as a grocery store, grabbing multiple meals during off-peak hours. Although Sadana did not get the dining hall’s specialty meals offered during peak hours, she only spent 20 to 30 minutes in the dining hall every few days."
+          },
+          {
+            "type": "text",
+            "value": "However, with the advent of indoor dining, this solution is no longer viable. Those who do not wish to eat indoors must pay 50 cents for a compostable container or use a dining token to redeem a reusable to-go container. Barnard students have to pay $5 for a reusable container. Sadana thinks indoor dining will change her “whole life,” since she will no longer be able to avoid the lines by taking multiple boxes as she did in the past."
+          },
+          {
+            "type": "text",
+            "value": "Columbia’s reopening of indoor dining marks a step toward the coveted college experience lost by students across the country throughout the last 18 months. With students who have elected to eat indoors returning for seconds as newcomers fill their to-go containers, the lines have changed in nature."
+          },
+          {
+            "type": "text",
+            "value": "Prior to indoor dining’s reopening, Scott Wright, vice president for campus services, attributed dining hall crowds to four causes: an additional 1,200 students on the dining plan than the previous year, operational strains, the exchange between Columbia dining plan holders and Barnard dining plan holders, and the lack of indoor dining. Wright believes the increase in dining plan holders is resulted from an increased affection for Columbia’s dining hall food, the added security of COVID-19 quarantine meals, and an increase of students on specialty price meal plans due to food insecurity."
+          },
+          {
+            "type": "text",
+            "value": "Columbia is not the only college experiencing an increase in dining hall crowding. At the University of Southern California, students have changed their eating patterns by going in-between normal meal times to avoid the long lines. Students at Middlebury College have received parking tickets due to a lack of parking space and the amount of time they have to spend in the dining halls."
+          },
+          {
+            "type": "text",
+            "value": "<a href=\"https://vanderbilthustler.com/41694/featured/students-to-receive-daily-50-meal-money-credit-from-aug-24-to-29-following-dining-service-shortages/\">Vanderbilt University</a> responded quickly after its students returned on Aug. 21 by giving all students daily $50 “Meal Money” credits, which they could use at nearby restaurants from Aug. 24 to Aug. 29. The University gave students another stipend for $15 that they could use at any time throughout the semester. Now, on-campus food trucks and modified dining hours are mitigating the lines. Wright claimed Columbia has strayed from adopting a similar stipend policy because he fears the crowds will only spread to off-campus restaurants."
+          },
+          {
+            "type": "text",
+            "value": "“I think that we also view it and wonder if things like food delivery might be a better way to go. Where they are accessing everybody through there,” Wright said. “So we’re examining that right now.”"
+          },
+          {
+            "type": "text",
+            "value": "Columbia Dining encouraged students to use Chef Mike’s Market, a suite of grab-and-go stands that allowed students to pick up pre-packaged cold or hot lunch and dinner options when they did not have enough time to eat in a dining hall. However, Columbia Dining has closed Chef Mike’s Market because of indoor dining. Now, no quick grab-and-go option exists for the lunchtime and dinnertime rush."
+          },
+          {
+            "type": "text",
+            "value": "Spectator’s survey found 49.2 percent of respondents skipped a meal “some of the time”; 42 surveyed students, or 4.7 percent, recorded skipping meals “always.”"
+          },
+          {
+            "type": "text",
+            "value": "Columbia has arrived at other solutions, though. On Sept. 30, Columbia Dining<a href=\"https://www.columbiaspectator.com/arts-and-entertainment/2021/09/30/columbia-dining-to-open-new-pop-up-location-at-faculty-house/\"> opened Faculty House</a> as an attempt to alleviate crowds at other dining halls. This dining hall is open from 11:30 a.m. to 2 p.m. on weekdays and serves dishes such as salmon and mac and cheese. However, the dining team is open to extending hours and menu changes based on student feedback. Another solution is the Take Four at JJ’s Place, where students may grab four items such as cereal or yogurt, for one meal swipe."
+          },
+          {
+            "type": "text",
+            "value": "Students, however, are not taking advantage of some of these options, whether it is because they do not know they exist, do not know how to access them, or have not tried. During the first week that Faculty House was open, Spectator data revealed that only 34.2 percent of students surveyed dined there. This percentage has increased since. At around 1 p.m. on Oct. 19, there were almost no open seats at Faculty House."
+          },
+          {
+            "type": "text",
+            "value": "Although Columbia’s efforts to decrease lines have improved the crowd situation, according to data collected by Spectator, there exist lingering problems related to students with disabilities and mental illnesses."
+          },
+          {
+            "type": "text",
+            "value": "<b>The Effects on Students with Eating Disorders and Disabilities </b>"
+          },
+          {
+            "type": "text",
+            "value": "Dining halls—especially crowded dining halls—can be a stressful space for students with eating disorders and disabilities. Students who responded to Spectator’s survey expressed concerns about anxiety over the dining hall crowds, inefficient meetings with campus nutritionists and Disabled Service representatives about these conditions, and the dining halls being overall inaccessible."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "squares.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Jaelyn Wingard, BC ’22, is recovering from an eating disorder and receives accommodations to skip lines because of a disability. She prefers to eat at Barnard as the staff “knows” her. However, she finds it difficult to advocate for herself and is dissatisfied with the smaller portion sizes at Barnard. At Columbia, students are “pushy” when she skips the line, making her less motivated to eat."
+          },
+          {
+            "type": "text",
+            "value": "“At Columbia, they don’t know who I am. So if I skip the line, they’re like, ‘What are you doing?’” Wingard said. “And then students are so rude about it when I do. They’re like, ‘I waited in line. Why?’ I physically can’t. … It’s just mentally draining.”"
+          },
+          {
+            "type": "text",
+            "value": "Lisa Ranzenhofer, an assistant professor of clinical psychology in psychiatry at Columbia University Irving Medical Center and the New York State Psychiatric Institute, attributes eating disorders to a “perfect storm” of both “biological and environmental factors.”"
+          },
+          {
+            "type": "text",
+            "value": "“For some people, life transitions and stressors, like moving or the COVID-19 pandemic, can also play a role in eating disorder development,” Ranzenhofer wrote in an email to Spectator. “Sometimes, an eating disorder takes a foothold after someone loses a little bit of weight without trying to, for example, due to not liking the food at camp or college and eating less as a result. This is why eating regularly can be an important part of a healthy lifestyle for everyone, even those without an eating disorder.”"
+          },
+          {
+            "type": "text",
+            "value": "Ranzenhofer urges students to find the strength to communicate about their struggle to find proper meals."
+          },
+          {
+            "type": "text",
+            "value": "“Brainstorming ways to eat sufficiently, even when the situation isn’t optimal, can help and is a good life skill. The best solution might be different for each person,” Ranzenhofer wrote. “Depending on housing, money constraints, schedules, etc., students might consider altering the timing of going to the dining hall to avoid crowds, eating off campus, preparing food in the dorm, cooking together, or other ways to make sure that meals happen.”"
+          },
+          {
+            "type": "text",
+            "value": "Ranzenhofer helps clients alleviate disordered eating behaviors through the use of technology. She is currently <a href=\"https://recruit.cumc.columbia.edu/clinical_trial/1037\">working on a study</a> at the Columbia Center for Eating Disorders that seeks to identify the causes and characteristics of eating disorders. She recommends targeting disordered eating habits by documenting behaviors around the time they occur. Students can take preemptive measures such as noting times in their schedules when they typically skip meals and planning those meals ahead of time."
+          },
+          {
+            "type": "text",
+            "value": "“Having a clear and complete picture of what is happening (and the thoughts or contexts that lead to it) can be an important step in developing solutions,” Ranzenhofer wrote. “Apps, including eating disorder recovery apps like Recovery Record, can be helpful for this. Equipped with a record of when and which meals are skipped, it is more possible to create a plan for not skipping meals in future occasions.”"
+          },
+          {
+            "type": "text",
+            "value": "Students with disabilities experience similar difficulties in the dining halls. Alison Kitchkommie, GS ’23, walks with a cane, making it difficult for her to balance and carry things. Although she spoke to her Disability Services representative, she received no accommodations and eventually withdrew from the semester."
+          },
+          {
+            "type": "text",
+            "value": "“This semester’s lack of accessibility and response to the needs of disabled students have absolutely contributed [to my withdrawal],” Kitchkommie said. “I tried every dining hall available to me. I requested help specifically from staff that were working and was told they weren't allowed to help. I tried to sit or set containers down if I needed to take a minute and rest and was told that wasn’t allowed. And so the whole thing was made completely inaccessible to me.”"
+          },
+          {
+            "type": "text",
+            "value": "Columbia Dining urges students to reach out to them about problems occurring on campus. Students can fill out a <a href=\"https://dining.columbia.edu/content/contact-us\">contact form</a> on the Columbia Dining website to meet with a dietician, discuss an allergy or nutrition problem, or troubleshoot issues with dining plans. Students can also fill out a <a href=\"https://dining.columbia.edu/content/we-want-your-feedback\">feedback form</a> on the Columbia Dining website to give feedback about the dining halls."
+          },
+          {
+            "type": "text",
+            "value": "“We don’t ever, ever want there to be a reason that somebody isn’t getting their meals and getting the support that they need, whether it’s for a financial reason or for a health reason or their mental well-being,” Kristina Hernandez, executive director of marketing and communications for campus services, said. “For those students who maybe stopped trying because they don’t know what’s going to happen, they need to just tell somebody on the team because if we don’t know, we can’t help.”"
+          },
+          {
+            "type": "text",
+            "value": "Students who do not want to communicate directly with a University representative can<a href=\"https://mcusercontent.com/25d76b212b5f4679d9e23de88/files/d374ce07-f84d-8346-a4ca-2abeaeaa1652/US__Student_Senators_2021_22_20211018.pdf\"> talk to their college’s representative</a> on the student affairs committee. This serves as an alternative resource for students who have had negative experiences to advocate for themselves to the University."
+          },
+          {
+            "type": "text",
+            "value": "“It’s not only people with disorders, but people who are disabled too, which often intersect,” Wingard said. “It’s just like [the University representatives] don’t seem to care when we bring it up. They’re like mad at us when we bring it up and that’s the hardest part. I try to honestly and carefully be like, ‘This is upsetting to me because’ and then they’re like, ‘Well, why are you complaining? We have food.’”"
+          },
+          {
+            "type": "text",
+            "value": "At a University Senate plenary meeting on Sept. 24, Valeria Contreras, SoA ’23 and co-chair of the student affairs committee, advocated for students by voicing concerns about COVID-19, students who are struggling from eating disorders, and the need to find solutions other than dining during “off-peak hours.” Her co-chair Jeremy Wahl, GS ’23, stressed the need for communication."
+          },
+          {
+            "type": "text",
+            "value": "“It is an incredibly difficult and turbulent time to be alive, let alone to be a Columbia student,” Jeremy Wahl, GS ’23, co-chair of the student affairs committee, said. “We can start solving problems together by being in communication with each other and helping move the ball forward.”"
+          },
+          {
+            "type": "text",
+            "value": "Despite the efforts by both the University and students to help other students fulfill their food-related needs, Columbia and Barnard Dining continue to fall short in their attempts to feed the student body. As dining conditions continue to change, an underlying problem persists: many Columbia students feel unheard when it comes to food-related problems."
+          },
+          {
+            "type": "text",
+            "value": "“It seems as though decisions are not made actually with the students in mind, but with the operational aspect in mind,” Kitchkommie said. “The students should be the priority, even if it means greater work on behalf of the University.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Arts & Entertainment Editor Bella Druckman can be contacted at </i><a href=\"mailto:bella.druckman@columbiaspectator.com\"><i>bella.druckman@columbiaspectator.com</i></a><i>. Follow her on Twitter </i><a href=\"https://twitter.com/bella_druckman?lang=en\"><i>@bella_druckman</i></a>."
+          },
+          {
+            "type": "text",
+            "value": "<i>Ethan Zhang is a graphics reporter. He can be contacted at </i><a href=\"mailto:ethan.zhang@columbiaspectator.com\"><i>ethan.zhang@columbiaspectator.com</i></a>."
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics reporter Aruni Soni can be contacted at </i><a href=\"mailto:editor@columbiaspectator.com\"><i>editor@columbiaspectator.com</i></a><i>. </i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Elizabeth Commisso is a deputy graphics editor. She can be contacted at </i><a href=\"mailto:elizabeth.commisso@columbiaspectator.com\"><i>elizabeth.commisso@columbiaspectator.com</i></a>."
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Dining hall crowds reveal Columbia students feel unheard regarding  food-related problems",
+        "date": "October 26, 2021",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Bella-Druckman/\">Bella Druckman</a>\nGraphics and data reporting by <a href=\"https://www.columbiaspectator.com/contributors/Ethan-Zhang/\">Ethan Zhang</a>, <a href=\"https://www.columbiaspectator.com/contributors/Aruni-Soni/\">Aruni Soni</a>, and <a href=\"https://www.columbiaspectator.com/contributors/Elizabeth-Commisso/\">Elizabeth Commisso</a>",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1eCK953rD8aXUqZ9hJPeX_DbleXoxxD2XMwPPotgldcQ/edit"
       }
     }
   }
